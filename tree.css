@@ -1,0 +1,49 @@
+body {
+  background-image: url('https://s2.qwant.com/thumbr/474x312/7/1/e16bcd07b638cdee6ea57a5cc6f6f48dab1cb2461470a429306c48a3939f3d/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.glY8oOee9Lclz_43kgdnfwHaE4%26pid%3DApi&q=0&b=1&p=0&a=0');
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+
+}
+
+.lien {
+  background-color: #000000  ;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column ;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   width: 20% ;
+}
+
+h1 {
+color: #FFFFFF
+}
+
+h1 + p {
+color: #FFFFFF
+}
+
+h2 {
+color: #FFFFFF
+}
+
+h3 {
+color: #FFFFFF
+}
+
+
+h4 {
+color: #FFFFFF
+}
