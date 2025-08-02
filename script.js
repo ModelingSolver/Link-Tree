@@ -9,8 +9,8 @@ const images = {
   lien6: { hover: 'https://s2.qwant.com/thumbr/474x235/4/5/2750529b8adc368f6e3fb9eb99d3d4f7e456d21870c4c77449fe53687fd940/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.PNmPnddDq3sYnBD5o5e8pwHaDr%26pid%3DApi&q=0&b=1&p=0&a=0' },
   lien7: { hover: 'https://s2.qwant.com/thumbr/474x315/4/e/3d6d8d34effbf4bc25184a69ba54a547238993b3376425c3ab214b86c8d504/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.Uzts0q5Zypgyuqb5MA4bmQHaE7%26pid%3DApi&q=0&b=1&p=0&a=0' },
   lien8: { hover: 'https://s2.qwant.com/thumbr/474x312/7/1/e16bcd07b638cdee6ea57a5cc6f6f48dab1cb2461470a429306c48a3939f3d/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.glY8oOee9Lclz_43kgdnfwHaE4%26pid%3DApi&q=0&b=1&p=0&a=0' },
-  lien9: { hover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPjvlEOmcaP9L_jzfq4SHdvm9i57g7e92TrQ&s' },
-  lien10: { hover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo8KvNRH3slcXUT3_HMtGhL0Jc4K8cgZbCvQ&s' },
+  lien9: { hover: 'https://media.istockphoto.com/id/2157709105/fr/photo/data-fabric-ai-artificial-intelligence-powered-analytics-data-data-verse-big-data-data.jpg?s=612x612&w=0&k=20&c=BjmGxxPcijIgMEE-X46fcvhWVmSM5AMD_3ajHtZ991Y=' },
+  lien10: { hover: 'https://assets.aws.labs.envato.com/image-gen/user/77822a4a-8a01-49f8-a52f-c93425a2b47e/8b60a8b7-1b01-4d9b-aef7-c7c4564ec782/930dcbcf-000d-4a0d-a7ca-db3435462cb8-size-400x400' },
 };
 //https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf26zap6sYxNwNQ1-5GR0gXhubHZnwL3kKfw&s
 Array.from(liens).forEach(function(lien) {
